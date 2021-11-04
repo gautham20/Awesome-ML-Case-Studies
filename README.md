@@ -1,7 +1,7 @@
 # Awesome-ML-Case-Studies
 Curated list of ML Case studies
 
-## Recommender systems and Search
+## Recommender systems / Search Ranking
 
 - [OLX Jobs recommendation service](https://tech.olx.com/intro-to-our-jobs-recommender-service-4317b55fc075) [ALS, Implicit, LightFM, Airflow, AWS]
 
@@ -10,6 +10,9 @@ Curated list of ML Case studies
 - [Item2Vec: Neural Item Embeddings to enhance recommendations](https://tech.olx.com/item2vec-neural-item-embeddings-to-enhance-recommendations-1fd948a6f293) [Neural Embeddings]
 
 - [Improving Deep Learning for Ranking Stays at Airbnb](https://medium.com/airbnb-engineering/improving-deep-learning-for-ranking-stays-at-airbnb-959097638bde)[Two Tower model]
+
+- [Measuring the business value of a hotel ranking model](https://medium.com/rocket-travel/measuring-the-business-value-of-a-hotel-ranking-model-c4396531b26e)
+- [Why we chose LambdaMART for our hotel ranking model](https://medium.com/rocket-travel/why-we-chose-lambdamart-for-our-hotel-ranking-model-45f84e22cec)
 
 ## Fraud Detection
 
